@@ -95,7 +95,7 @@ ol {
 .section-title h2 {
 	padding-top: 10px;
 	font-size: 36px;
-	color:#6e0715;
+	color:#004a26;
 }
 
 .set-bg {
@@ -145,7 +145,7 @@ ol {
 	border-radius: 50px;
 	font-weight: 500;
 	border: none;
-	background: #6e0715;
+	background: #004a26;
 	cursor: pointer;
 }
 
@@ -251,7 +251,7 @@ ol {
 ---------------------*/
 
 .header-section {
-	background: #6e0715;
+	background: #004a26;
 	clear: both;
 	overflow: hidden;
 	padding: 18px 0;
@@ -381,7 +381,7 @@ ol {
 }
 
 .hero-slider .owl-dots .owl-dot.active {
-	background: #6e0715;
+	background: #004a26;
 }
 
 /*---------------------
@@ -409,7 +409,7 @@ ol {
 	font-size: 18px;
 	font-weight: 500;
 	color: #fff;
-	background: #6e0715;
+	background: #004a26;
 	z-index: 1;
 }
 
@@ -437,15 +437,15 @@ ol {
 }
 
 .news-ticker-contant .nt-item span.realistic {
-	background: #6e0715;
+	background: #004a26;
 }
 
 .news-ticker-contant .nt-item span.customizable {
-	background: #6e0715;
+	background: #004a26;
 }
 
 .news-ticker-contant .nt-item span.optimized {
-	background: #6e0715;
+	background: #004a26;
 }
 
 /*------------------
@@ -538,7 +538,7 @@ ol {
 }
 
 .recent-game-item .rgi-extra .rgi-heart {
-	background: #6e0715;
+	background: #004a26;
 }
 
 /*----------------------
@@ -799,7 +799,7 @@ ol {
 .footer-section {
 	padding: 18px 0 16px;
 	overflow: hidden;
-	background: #6e0715;
+	background: #004a26;
 }
 
 .footer-menu {
